@@ -36,7 +36,7 @@ npm run start
 ```
 
 Go to `http://localhost:3000/` and you will see something like this:
-
+<img width="1440" alt="Screenshot 2023-08-11 at 9 57 09 AM" src="https://github.com/perseverance50k/task-manager/assets/55809302/e54446d7-67a4-4cf1-b566-512109d13486">
 
 ## Contributing
 
